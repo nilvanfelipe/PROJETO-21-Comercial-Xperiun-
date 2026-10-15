@@ -178,6 +178,7 @@ Medidas calculadas para os seis KPIs principais, além de medidas auxiliares par
 | Baixa | Integrar com CRM para dados em tempo real | Eliminar dependência de exportação manual de planilhas |
 
 ---
+<img width="1188" height="689" alt="image" src="https://github.com/user-attachments/assets/0fb01b95-ea01-44d7-9ccb-9edb7ca2f2b6" />
 
 ## Créditos
 

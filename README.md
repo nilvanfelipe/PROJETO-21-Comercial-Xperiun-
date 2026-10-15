@@ -182,6 +182,4 @@ Medidas calculadas para os seis KPIs principais, além de medidas auxiliares par
 
 ## Créditos
 
-Projeto de estudo baseado em material da [Xperiun](https://xperiun.com/) / Data Expert.
-
 **Autor:** Nilvan Felipe — [github.com/nilvanfelipe](https://github.com/nilvanfelipe)
